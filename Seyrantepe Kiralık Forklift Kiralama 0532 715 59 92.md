@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<a href="https://forkliftkiralamaistanbul.com/" title="Kağıthane Forklift Kiralama - Kağıthane Kiralık Forklift"><img src="https://r.resimlink.com/_-H9YIQ4uWtj.jpg" title="Kağıthane Forklift Kiralama - Kağıthane Kiralık Forklift" alt="Kağıthane Forklift Kiralama - Kağıthane Kiralık Forklift"></a>
+<a href="https://forkliftkiralamaistanbul.com/" title="Seyrantepe Forklift Kiralama - Seyrantepe Kiralık Forklift"><img src="https://r.resimlink.com/_-H9YIQ4uWtj.jpg" title="Seyrantepe Forklift Kiralama - Seyrantepe Kiralık Forklift" alt="Seyrantepe Forklift Kiralama - Seyrantepe Kiralık Forklift"></a>
 <a href="https://forkliftkiralamaistanbul.com/">
     <img src="https://r.resimlink.com/_-H9YIQ4uWtj.jpg" />
 </a>
