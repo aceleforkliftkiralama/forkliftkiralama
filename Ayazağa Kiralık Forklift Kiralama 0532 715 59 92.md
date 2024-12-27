@@ -1,5 +1,5 @@
 **Ayazağa Forklift Kiralama Hizmeti 7/24 Ayazağa Kiralık Forklift**
-#  <a href="tel://+95327155992">Arama yapmak için tıklayınız...</a>
+#  Numaramızdan ( 0532 715 59 92 ) Hemen Ulaşın
 #  <a href="https://forkliftkiralamaistanbul.com/ayazaga-kiralik-forklift-kiralama/">Ayazağa Forklift Kiralama</a>
 #  <a href="https://forkliftkiralamaistanbul.com">İstanbul Forklift Kiralama Firması</a>
 <meta charset="UTF-8">
